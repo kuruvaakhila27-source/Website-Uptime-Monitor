@@ -3,6 +3,11 @@
 A real-time website monitoring dashboard built with Python and Streamlit.
 
 It allows users to monitor multiple websites and check their availability, HTTP status, response time, and uptime performance.
+## 🚀 Live Demo
+
+🔗 **[Open Website Uptime Monitor](https://website-uptime-monitor-93hylcs82sfjsurm8yg43x.streamlit.app/)**
+
+Try the live application directly in your browser.
 
 ## ✨ Features
 
