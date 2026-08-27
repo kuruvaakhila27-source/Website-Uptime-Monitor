@@ -1,0 +1,6 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.streamlit/
+monitor_data.json
